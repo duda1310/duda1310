@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil ❤️
+ 
+meu nome é maria eduarda rocha
 
-<!--
-**duda1310/duda1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+- ### Você entrar em contato comigo 📫
+- 
+- mariaoliveira6846@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://media1.tenor.com/m/5PkjBikhUoUAAAAd/sheppy-shisha.gif)
